@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+title: Who is Usman Khan Niazi?
+url: www.usmanniazi.me
+twitter:
+  username: UsmanNiazi99
+  card: summary
